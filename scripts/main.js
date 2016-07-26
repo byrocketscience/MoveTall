@@ -1,0 +1,1 @@
+"use strict";$(function(){$(".carousel-control-btn-next").on("click",function(c){$(".carousel").carousel("next")}),$(".carousel-control-btn-prev").on("click",function(c){$(".carousel").carousel("prev")})});
